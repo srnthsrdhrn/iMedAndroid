@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">iMedDispenser</string>
+    <string name="login_success">login success</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="next">NEXT</string>
+    <string name="register">REGISTRATION</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="medicine_list">
+        <item>Calpal</item>
+        <item>Paracetamol</item>
+        <item>Aspirin</item>
+        <item>Cough Syrup</item>
+        <item>Digestion Syrup</item>
+        <item>Becosules</item>
+    </string-array>
+
+</resources>
